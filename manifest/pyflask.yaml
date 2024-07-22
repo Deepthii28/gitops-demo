@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: pyflask
-        image: dab8106/pyflask:latest
+        image: bhoomikam16/pyflask:latest
         resources:
           limits:
             memory: "128Mi"
